@@ -12,6 +12,7 @@ A simple client-server application implemented in Python using sockets.
 
 *   Python
 *   Sockets
+*   linux
 
 ## Usage
 
